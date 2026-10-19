@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Paleta del diseno de referencia (morado) -->
+    <color name="morado">#6C2BD9</color>
+    <color name="morado_oscuro">#5B21B6</color>
+    <color name="azul">#2962FF</color>
+    <color name="verde">#2E7D32</color>
+    <color name="rojo">#D32F2F</color>
+    <color name="amarillo">#F9A825</color>
+    <color name="gris">#607D8B</color>
+    <color name="naranja">#EF6C00</color>
+
+    <!-- Fondos suaves -->
+    <color name="fondo">#F5F3FA</color>
+    <color name="morado_claro">#EDE7F6</color>
+    <color name="borde">#E0E0E0</color>
+    <color name="texto">#333333</color>
+    <color name="texto_gris">#888888</color>
+</resources>
